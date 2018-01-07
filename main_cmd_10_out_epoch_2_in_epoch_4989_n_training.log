@@ -1,0 +1,80 @@
+PS E:\CGVSL\Image_Cloud\video_significance_detection_keras> py .\main.py train
+E:\Python\Python36\lib\site-packages\h5py\__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype
+ from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+Using TensorFlow backend.
+n_training = 4989
+n_test = 732
+model exists
+2018-01-07 00:11:58.150100: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\platform\cpu_feat
+ure_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2
+2018-01-07 00:11:58.412003: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gp
+u\gpu_device.cc:1030] Found device 0 with properties:
+name: GeForce GTX 970 major: 5 minor: 2 memoryClockRate(GHz): 1.2405
+pciBusID: 0000:01:00.0
+totalMemory: 4.00GiB freeMemory: 3.31GiB
+2018-01-07 00:11:58.412193: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gp
+u\gpu_device.cc:1120] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:
+01:00.0, compute capability: 5.2)
+build model completed
+out epoch = 0
+Epoch 1/2
+2018-01-07 00:12:05.187242: W C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\bf
+c_allocator.cc:217] Allocator (GPU_0_bfc) ran out of memory trying to allocate 3.87GiB. The caller indicates that this i
+s not a failure, but may mean that there could be performance gains if more memory is available.
+2018-01-07 00:12:05.488715: W C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\bf
+c_allocator.cc:217] Allocator (GPU_0_bfc) ran out of memory trying to allocate 1.93GiB. The caller indicates that this i
+s not a failure, but may mean that there could be performance gains if more memory is available.
+324/623 [==============>...............] - ETA: 3:54 - loss: 0.05592018-01-07 00:16:18.258052: W C:\tf_jenkins\home\work
+space\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\bfc_allocator.cc:217] Allocator (GPU_0_bfc) ran out of
+memory trying to allocate 2.53GiB. The caller indicates that this is not a failure, but may mean that there could be per
+formance gains if more memory is available.
+624/623 [==============================] - 518s 830ms/step - loss: 0.0519
+Epoch 2/2
+624/623 [==============================] - 453s 726ms/step - loss: 0.0307
+out epoch = 1
+Epoch 1/2
+624/623 [==============================] - 453s 726ms/step - loss: 0.0209
+Epoch 2/2
+624/623 [==============================] - 453s 726ms/step - loss: 0.0163
+out epoch = 2
+Epoch 1/2
+624/623 [==============================] - 453s 726ms/step - loss: 0.0139
+Epoch 2/2
+624/623 [==============================] - 453s 726ms/step - loss: 0.0129
+out epoch = 3
+Epoch 1/2
+624/623 [==============================] - 453s 726ms/step - loss: 0.0120
+Epoch 2/2
+624/623 [==============================] - 453s 726ms/step - loss: 0.0102
+out epoch = 4
+Epoch 1/2
+624/623 [==============================] - 453s 726ms/step - loss: 0.0088
+Epoch 2/2
+624/623 [==============================] - 453s 726ms/step - loss: 0.0082
+out epoch = 5
+Epoch 1/2
+624/623 [==============================] - 452s 724ms/step - loss: 0.0078
+Epoch 2/2
+624/623 [==============================] - 451s 723ms/step - loss: 0.0070
+out epoch = 6
+Epoch 1/2
+624/623 [==============================] - 449s 720ms/step - loss: 0.0072
+Epoch 2/2
+624/623 [==============================] - 448s 719ms/step - loss: 0.0072
+out epoch = 7
+Epoch 1/2
+624/623 [==============================] - 449s 720ms/step - loss: 0.0070
+Epoch 2/2
+624/623 [==============================] - 449s 720ms/step - loss: 0.0063
+out epoch = 8
+Epoch 1/2
+624/623 [==============================] - 449s 719ms/step - loss: 0.0061
+Epoch 2/2
+624/623 [==============================] - 449s 720ms/step - loss: 0.0059
+out epoch = 9
+Epoch 1/2
+624/623 [==============================] - 449s 720ms/step - loss: 0.0057
+Epoch 2/2
+624/623 [==============================] - 449s 720ms/step - loss: 0.0057
+training time = 9119.20413851738

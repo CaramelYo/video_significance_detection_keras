@@ -1,0 +1,2024 @@
+2018-01-07 12:23 root         INFO    
+n_test = 732
+2018-01-07 12:23 root         INFO    
+model exists
+2018-01-07 12:23 root         INFO    
+build model completed
+2018-01-07 12:23 root         INFO    
+name = 104_conv_R
+2018-01-07 12:23 root         INFO    
+out_video_dir = data\video\prediction\104_conv_R
+2018-01-07 12:23 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/0.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/1.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/2.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/3.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/4.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/5.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/6.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/7.png
+2018-01-07 12:23 root         INFO    
+name = 104_conv_R
+2018-01-07 12:23 root         INFO    
+out_video_dir = data\video\prediction\104_conv_R
+2018-01-07 12:23 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/8.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/9.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/10.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/11.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/12.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/13.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/14.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/15.png
+2018-01-07 12:23 root         INFO    
+name = 104_conv_R
+2018-01-07 12:23 root         INFO    
+out_video_dir = data\video\prediction\104_conv_R
+2018-01-07 12:23 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/16.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/17.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/18.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/19.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/20.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/21.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/22.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/23.png
+2018-01-07 12:23 root         INFO    
+name = 104_conv_R
+2018-01-07 12:23 root         INFO    
+out_video_dir = data\video\prediction\104_conv_R
+2018-01-07 12:23 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/24.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/25.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/26.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/27.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/28.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/29.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/30.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/31.png
+2018-01-07 12:23 root         INFO    
+name = 104_conv_R
+2018-01-07 12:23 root         INFO    
+out_video_dir = data\video\prediction\104_conv_R
+2018-01-07 12:23 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/32.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/33.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/34.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/35.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/36.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/37.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/38.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/39.png
+2018-01-07 12:23 root         INFO    
+name = 104_conv_R
+2018-01-07 12:23 root         INFO    
+out_video_dir = data\video\prediction\104_conv_R
+2018-01-07 12:23 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/40.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/41.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/42.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/43.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/44.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/45.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/46.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/47.png
+2018-01-07 12:23 root         INFO    
+name = 104_conv_R
+2018-01-07 12:23 root         INFO    
+out_video_dir = data\video\prediction\104_conv_R
+2018-01-07 12:23 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/48.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/49.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/50.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/51.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/52.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/53.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/54.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/55.png
+2018-01-07 12:23 root         INFO    
+name = 104_conv_R
+2018-01-07 12:23 root         INFO    
+out_video_dir = data\video\prediction\104_conv_R
+2018-01-07 12:23 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/56.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/57.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/58.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/59.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/60.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/61.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/62.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/63.png
+2018-01-07 12:23 root         INFO    
+name = 104_conv_R
+2018-01-07 12:23 root         INFO    
+out_video_dir = data\video\prediction\104_conv_R
+2018-01-07 12:23 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/64.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/65.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/66.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/67.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/68.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/69.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/70.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/71.png
+2018-01-07 12:23 root         INFO    
+name = 104_conv_R
+2018-01-07 12:23 root         INFO    
+out_video_dir = data\video\prediction\104_conv_R
+2018-01-07 12:23 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/72.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/73.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/74.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/75.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/76.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/77.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/78.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/79.png
+2018-01-07 12:23 root         INFO    
+name = 104_conv_R
+2018-01-07 12:23 root         INFO    
+out_video_dir = data\video\prediction\104_conv_R
+2018-01-07 12:23 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/80.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/81.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/82.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/83.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/84.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/85.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/86.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/87.png
+2018-01-07 12:23 root         INFO    
+name = 104_conv_R
+2018-01-07 12:23 root         INFO    
+out_video_dir = data\video\prediction\104_conv_R
+2018-01-07 12:23 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/88.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/89.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/90.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/91.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/92.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/93.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/94.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/95.png
+2018-01-07 12:23 root         INFO    
+name = 104_conv_R
+2018-01-07 12:23 root         INFO    
+out_video_dir = data\video\prediction\104_conv_R
+2018-01-07 12:23 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/96.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/97.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/98.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/99.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/100.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/101.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/102.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/103.png
+2018-01-07 12:23 root         INFO    
+name = 104_conv_R
+2018-01-07 12:23 root         INFO    
+out_video_dir = data\video\prediction\104_conv_R
+2018-01-07 12:23 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/104.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/105.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/106.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/107.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/108.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/109.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/110.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/111.png
+2018-01-07 12:23 root         INFO    
+name = 104_conv_R
+2018-01-07 12:23 root         INFO    
+out_video_dir = data\video\prediction\104_conv_R
+2018-01-07 12:23 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/112.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/113.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/114.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/115.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/116.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/117.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/118.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/119.png
+2018-01-07 12:23 root         INFO    
+name = 104_conv_R
+2018-01-07 12:23 root         INFO    
+out_video_dir = data\video\prediction\104_conv_R
+2018-01-07 12:23 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/120.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/121.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/122.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/123.png
+2018-01-07 12:23 root         INFO    
+out_path = data\video\prediction\104_conv_R/124.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\104_conv_R/125.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\104_conv_R/126.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\104_conv_R/127.png
+2018-01-07 12:24 root         INFO    
+name = 104_conv_R
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\104_conv_R
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\104_conv_R/128.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\104_conv_R/129.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\104_conv_R/130.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\104_conv_R/131.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\104_conv_R/132.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\104_conv_R/133.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\104_conv_R/134.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\104_conv_R/135.png
+2018-01-07 12:24 root         INFO    
+name = 2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/0.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/1.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/2.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/3.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/4.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/5.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/6.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/7.png
+2018-01-07 12:24 root         INFO    
+name = 2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/8.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/9.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/10.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/11.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/12.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/13.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/14.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/15.png
+2018-01-07 12:24 root         INFO    
+name = 2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/16.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/17.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/18.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/19.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/20.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/21.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/22.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/23.png
+2018-01-07 12:24 root         INFO    
+name = 2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/24.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/25.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/26.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/27.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/28.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/29.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/30.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/31.png
+2018-01-07 12:24 root         INFO    
+name = 2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/32.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/33.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/34.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/35.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/36.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/37.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/38.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/39.png
+2018-01-07 12:24 root         INFO    
+name = 2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/40.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/41.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/42.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/43.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/44.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/45.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/46.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/47.png
+2018-01-07 12:24 root         INFO    
+name = 2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/48.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/49.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/50.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/51.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/52.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/53.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/54.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/55.png
+2018-01-07 12:24 root         INFO    
+name = 2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/56.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/57.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/58.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/59.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/60.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/61.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/62.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/63.png
+2018-01-07 12:24 root         INFO    
+name = 2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/64.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/65.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/66.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/67.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/68.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/69.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/70.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/71.png
+2018-01-07 12:24 root         INFO    
+name = 2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/72.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/73.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/74.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/75.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/76.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/77.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/78.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/79.png
+2018-01-07 12:24 root         INFO    
+name = 2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/80.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/81.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/82.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/83.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/84.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/85.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/86.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/87.png
+2018-01-07 12:24 root         INFO    
+name = 2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/88.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/89.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/90.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/91.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/92.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/93.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/94.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/95.png
+2018-01-07 12:24 root         INFO    
+name = 2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/96.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/97.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/98.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/99.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/100.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/101.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/102.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/103.png
+2018-01-07 12:24 root         INFO    
+name = 2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/104.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/105.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/106.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/107.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/108.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/109.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/110.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/111.png
+2018-01-07 12:24 root         INFO    
+name = 2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/112.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/113.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/114.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/115.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/116.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/117.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/118.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/119.png
+2018-01-07 12:24 root         INFO    
+name = 2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/120.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/121.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/122.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/123.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/124.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/125.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/126.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/127.png
+2018-01-07 12:24 root         INFO    
+name = 2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/128.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/129.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/130.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/131.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/132.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/133.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/134.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/135.png
+2018-01-07 12:24 root         INFO    
+name = 2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/136.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/137.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/138.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/139.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/140.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/141.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/142.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/143.png
+2018-01-07 12:24 root         INFO    
+name = 2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/144.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/145.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/146.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/147.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/148.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/149.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/150.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/151.png
+2018-01-07 12:24 root         INFO    
+name = 2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/152.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/153.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/154.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/155.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/156.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/157.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/158.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/159.png
+2018-01-07 12:24 root         INFO    
+name = 2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/160.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/161.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/162.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/163.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/164.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/165.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/166.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/167.png
+2018-01-07 12:24 root         INFO    
+name = 2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/168.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/169.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/170.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/171.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/172.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/173.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/174.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/175.png
+2018-01-07 12:24 root         INFO    
+name = 2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/176.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/177.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/178.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/179.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/180.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/181.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/182.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/183.png
+2018-01-07 12:24 root         INFO    
+name = 2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/184.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/185.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/186.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/187.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/188.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/189.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/190.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/191.png
+2018-01-07 12:24 root         INFO    
+name = 2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/192.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/193.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/194.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/195.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/196.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/197.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/198.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/199.png
+2018-01-07 12:24 root         INFO    
+name = 2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 352, 640, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/200.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/201.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/202.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/203.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/204.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/205.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/206.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/207.png
+2018-01-07 12:24 root         INFO    
+name = 2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\2HI_input_full(640x360_0-214)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (6, 352, 640, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/208.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/209.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/210.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/211.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/212.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\2HI_input_full(640x360_0-214)_conv/213.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/0.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/1.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/2.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/3.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/4.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/5.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/6.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/7.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/8.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/9.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/10.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/11.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/12.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/13.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/14.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/15.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/16.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/17.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/18.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/19.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/20.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/21.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/22.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/23.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/24.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/25.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/26.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/27.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/28.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/29.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/30.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/31.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/32.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/33.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/34.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/35.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/36.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/37.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/38.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/39.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/40.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/41.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/42.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/43.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/44.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/45.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/46.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/47.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/48.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/49.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/50.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/51.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/52.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/53.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/54.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/55.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/56.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/57.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/58.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/59.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/60.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/61.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/62.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/63.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/64.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/65.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/66.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/67.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/68.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/69.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/70.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/71.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/72.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/73.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/74.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/75.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/76.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/77.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/78.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/79.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/80.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/81.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/82.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/83.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/84.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/85.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/86.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/87.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/88.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/89.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/90.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/91.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/92.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/93.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/94.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/95.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/96.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/97.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/98.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/99.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/100.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/101.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/102.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/103.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/104.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/105.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/106.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/107.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/108.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/109.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/110.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/111.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/112.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/113.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/114.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/115.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/116.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/117.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/118.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/119.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/120.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/121.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/122.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/123.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/124.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/125.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/126.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/127.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/128.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/129.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/130.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/131.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/132.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/133.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/134.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/135.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/136.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/137.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/138.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/139.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/140.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/141.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/142.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/143.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/144.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/145.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/146.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/147.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/148.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/149.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/150.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/151.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/152.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/153.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/154.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/155.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/156.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/157.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/158.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/159.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/160.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/161.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/162.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/163.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/164.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/165.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/166.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/167.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/168.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/169.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/170.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/171.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/172.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/173.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/174.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/175.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/176.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/177.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/178.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/179.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/180.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/181.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/182.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/183.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/184.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/185.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/186.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/187.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/188.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/189.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/190.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/191.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/192.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/193.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/194.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/195.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/196.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/197.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/198.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/199.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/200.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/201.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/202.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/203.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/204.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/205.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/206.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/207.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/208.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/209.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/210.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/211.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/212.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/213.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/214.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/215.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/216.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/217.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/218.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/219.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/220.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/221.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/222.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/223.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/224.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/225.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/226.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/227.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/228.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/229.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/230.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/231.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/232.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/233.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/234.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/235.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/236.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/237.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/238.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/239.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/240.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/241.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/242.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/243.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/244.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/245.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/246.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/247.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/248.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/249.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/250.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/251.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/252.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/253.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/254.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/255.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/256.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/257.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/258.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/259.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/260.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/261.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/262.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/263.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/264.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/265.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/266.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/267.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/268.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/269.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/270.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/271.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/272.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/273.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/274.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/275.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/276.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/277.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/278.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/279.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/280.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/281.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/282.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/283.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/284.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/285.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/286.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/287.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/288.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/289.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/290.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/291.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/292.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/293.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/294.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/295.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/296.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/297.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/298.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/299.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/300.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/301.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/302.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/303.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/304.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/305.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/306.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/307.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/308.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/309.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/310.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/311.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/312.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/313.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/314.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/315.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/316.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/317.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/318.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/319.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/320.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/321.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/322.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/323.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/324.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/325.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/326.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/327.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/328.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/329.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/330.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/331.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/332.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/333.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/334.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/335.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/336.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/337.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/338.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/339.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/340.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/341.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/342.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/343.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/344.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/345.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/346.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/347.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/348.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/349.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/350.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/351.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/352.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/353.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/354.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/355.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/356.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/357.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/358.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/359.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/360.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/361.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/362.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/363.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/364.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/365.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/366.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/367.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (8, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/368.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/369.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/370.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/371.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/372.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/373.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/374.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/375.png
+2018-01-07 12:24 root         INFO    
+name = 7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+out_video_dir = data\video\prediction\7_7_full(320x180_0-382)_conv
+2018-01-07 12:24 root         INFO    
+shape of preds = (6, 160, 320, 1)
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/376.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/377.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/378.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/379.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/380.png
+2018-01-07 12:24 root         INFO    
+out_path = data\video\prediction\7_7_full(320x180_0-382)_conv/381.png
+2018-01-07 12:24 root         INFO    
+test time = 49.0362024307251
