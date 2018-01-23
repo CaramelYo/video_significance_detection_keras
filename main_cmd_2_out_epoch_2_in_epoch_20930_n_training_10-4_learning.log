@@ -1,0 +1,119 @@
+PS E:\CGVSL\Image_Cloud\video_significance_detection_keras> py main.py train
+E:\Python\Python36\lib\site-packages\h5py\__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype
+ from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
+  from ._conv import register_converters as _register_converters
+Using TensorFlow backend.
+n_training = 20930
+n_validation = 2947
+2018-01-22 19:11:49.349158: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\platform\cpu_feat
+ure_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX AVX2
+2018-01-22 19:11:49.623952: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gp
+u\gpu_device.cc:1030] Found device 0 with properties:
+name: GeForce GTX 970 major: 5 minor: 2 memoryClockRate(GHz): 1.2405
+pciBusID: 0000:01:00.0
+totalMemory: 4.00GiB freeMemory: 3.31GiB
+2018-01-22 19:11:49.624069: I C:\tf_jenkins\home\workspace\rel-win\M\windows-gpu\PY\36\tensorflow\core\common_runtime\gp
+u\gpu_device.cc:1120] Creating TensorFlow device (/device:GPU:0) -> (device: 0, name: GeForce GTX 970, pci bus id: 0000:
+01:00.0, compute capability: 5.2)
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #
+=================================================================
+input_1 (InputLayer)         (None, None, None, 3)     0
+_________________________________________________________________
+block1_conv1 (Conv2D)        (None, None, None, 64)    1792
+_________________________________________________________________
+block1_conv2 (Conv2D)        (None, None, None, 64)    36928
+_________________________________________________________________
+block1_pool (MaxPooling2D)   (None, None, None, 64)    0
+_________________________________________________________________
+block2_conv1 (Conv2D)        (None, None, None, 128)   73856
+_________________________________________________________________
+block2_conv2 (Conv2D)        (None, None, None, 128)   147584
+_________________________________________________________________
+block2_pool (MaxPooling2D)   (None, None, None, 128)   0
+_________________________________________________________________
+block3_conv1 (Conv2D)        (None, None, None, 256)   295168
+_________________________________________________________________
+block3_conv2 (Conv2D)        (None, None, None, 256)   590080
+_________________________________________________________________
+block3_conv3 (Conv2D)        (None, None, None, 256)   590080
+_________________________________________________________________
+block3_pool (MaxPooling2D)   (None, None, None, 256)   0
+_________________________________________________________________
+block4_conv1 (Conv2D)        (None, None, None, 512)   1180160
+_________________________________________________________________
+block4_conv2 (Conv2D)        (None, None, None, 512)   2359808
+_________________________________________________________________
+block4_conv3 (Conv2D)        (None, None, None, 512)   2359808
+_________________________________________________________________
+block4_pool (MaxPooling2D)   (None, None, None, 512)   0
+_________________________________________________________________
+block5_conv1 (Conv2D)        (None, None, None, 512)   2359808
+_________________________________________________________________
+block5_conv2 (Conv2D)        (None, None, None, 512)   2359808
+_________________________________________________________________
+block5_conv3 (Conv2D)        (None, None, None, 512)   2359808
+_________________________________________________________________
+block5_pool (MaxPooling2D)   (None, None, None, 512)   0
+_________________________________________________________________
+deconv1_1 (Conv2DTranspose)  (None, None, None, 512)   4194816
+_________________________________________________________________
+deconv1_2 (Conv2DTranspose)  (None, None, None, 128)   1048704
+_________________________________________________________________
+deconv1_3 (Conv2DTranspose)  (None, None, None, 128)   262272
+_________________________________________________________________
+deconv1_4 (Conv2DTranspose)  (None, None, None, 128)   262272
+_________________________________________________________________
+drop1_5 (Dropout)            (None, None, None, 128)   0
+_________________________________________________________________
+deconv2_1 (Conv2DTranspose)  (None, None, None, 128)   262272
+_________________________________________________________________
+deconv2_2 (Conv2DTranspose)  (None, None, None, 128)   262272
+_________________________________________________________________
+deconv2_3 (Conv2DTranspose)  (None, None, None, 128)   262272
+_________________________________________________________________
+deconv2_4 (Conv2DTranspose)  (None, None, None, 64)    131136
+_________________________________________________________________
+drop2_5 (Dropout)            (None, None, None, 64)    0
+_________________________________________________________________
+deconv3_1 (Conv2DTranspose)  (None, None, None, 64)    65600
+_________________________________________________________________
+deconv3_2 (Conv2DTranspose)  (None, None, None, 64)    65600
+_________________________________________________________________
+deconv3_3 (Conv2DTranspose)  (None, None, None, 64)    65600
+_________________________________________________________________
+deconv3_4 (Conv2DTranspose)  (None, None, None, 32)    32800
+_________________________________________________________________
+drop3_5 (Dropout)            (None, None, None, 32)    0
+_________________________________________________________________
+deconv4_1 (Conv2DTranspose)  (None, None, None, 32)    16416
+_________________________________________________________________
+deconv4_2 (Conv2DTranspose)  (None, None, None, 32)    16416
+_________________________________________________________________
+deconv4_3 (Conv2DTranspose)  (None, None, None, 8)     4104
+_________________________________________________________________
+drop4_4 (Dropout)            (None, None, None, 8)     0
+_________________________________________________________________
+deconv5_1 (Conv2DTranspose)  (None, None, None, 8)     1032
+_________________________________________________________________
+deconv5_2 (Conv2DTranspose)  (None, None, None, 8)     1032
+_________________________________________________________________
+conv5_3 (Conv2D)             (None, None, None, 1)     9
+=================================================================
+Total params: 21,669,313
+Trainable params: 14,034,049
+Non-trainable params: 7,635,264
+_________________________________________________________________
+build model completed
+out epoch = 0
+Epoch 1/2
+10465/10465 [==============================] - 3283s 314ms/step - loss: 0.0385 - val_loss: 0.0671
+Epoch 2/2
+10465/10465 [==============================] - 3249s 310ms/step - loss: 0.0305 - val_loss: 0.0851
+out epoch = 1
+Epoch 1/2
+10465/10465 [==============================] - 3246s 310ms/step - loss: 0.0255 - val_loss: 0.0978
+Epoch 2/2
+10465/10465 [==============================] - 3245s 310ms/step - loss: 0.0215 - val_loss: 0.0813
+training time = 13036.845220327377
+PS E:\CGVSL\Image_Cloud\video_significance_detection_keras>

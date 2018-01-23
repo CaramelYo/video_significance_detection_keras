@@ -83,7 +83,13 @@ def generate_arrays_from_file(image_dir, label_dir, batch_size = batch_size, is_
                         ys = []
         
         if not is_infinite:
-            break;
+            break
+
+_dir = 'data/video/test/7_7_full(320x180_0-382)_conv/saliency'
+
+for path in os.listdir(_dir):
+    print(os.path.join(_dir, path))
+
 
 # while i <= t_generator.batch_index:
 #     data = t_generator.next()
@@ -99,17 +105,17 @@ def generate_arrays_from_file(image_dir, label_dir, batch_size = batch_size, is_
 # data = generate_arrays_from_file.next()
 # print(data)
 
-generator = generate_arrays_from_file(ori_dir, s_dir, is_infinite = False)
+# generator = generate_arrays_from_file(ori_dir, s_dir, is_infinite = False)
 
-# print(len(generator))
+# # print(len(generator))
 
-i = 0
+# i = 0
 
-for data in generator:
-    # print()
-    i += 1
+# for data in generator:
+#     # print()
+#     i += 1
 
-print(i)
+# print(i)
 
 
 # for data in generator:
@@ -122,7 +128,31 @@ print(i)
 
 # arr = np.array([[254.5, 1.2], [123.4, 212.8], [55.5, 0.5]])
 
-# # arr = np.array([[254.5, 1.2], [123.4, 212.8]])
+l = [[254.5, 1.2], [123.4, 212.8]]
+ll = []
+ll.append(l)
+
+print(l)
+print(ll)
+del l
+print(ll)
+
+# l_arr = np.array(l)
+# l_asarr = np.asarray(l_arr)
+
+# print(l)
+# print(l_arr)
+# print(l_asarr)
+
+# del l
+# print(l_arr)
+# print(l_asarr)
+
+# del l_arr
+
+# print(l_asarr)
+
+# arr = np.asarray([[254.5, 1.2], [123.4, 212.8]])
 # print(arr)
 # print(arr.shape)
 # print(arr.dtype)
