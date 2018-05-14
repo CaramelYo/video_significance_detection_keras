@@ -1,5 +1,5 @@
-from keras.preprocessing.image import ImageDataGenerator
-from keras.applications.vgg16 import preprocess_input
+# from keras.preprocessing.image import ImageDataGenerator
+# from keras.applications.vgg16 import preprocess_input
 import os
 import numpy as np
 from PIL import Image
@@ -85,10 +85,12 @@ def generate_arrays_from_file(image_dir, label_dir, batch_size = batch_size, is_
         if not is_infinite:
             break
 
-_dir = 'data/video/test/7_7_full(320x180_0-382)_conv/saliency'
+i = 5
 
-for path in os.listdir(_dir):
-    print(os.path.join(_dir, path))
+print('%.5d' % i)
+i = 234
+print('%.5d' % i)
+exit()
 
 
 # while i <= t_generator.batch_index:

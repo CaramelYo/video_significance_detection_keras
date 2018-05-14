@@ -102,7 +102,7 @@ class FCN16:
             layer.trainable = False
 
         # load the previous model
-        if path and os.path.isfile(weight_path):
+        if weight_path and os.path.isfile(weight_path):
             logging.info('model exists')
             
             model.load_weights(weight_path, by_name = True)
@@ -129,7 +129,7 @@ class FCN16:
         
         # post processing
         pred = np.squeeze(pred, axis = 2)
-        pred = preprocess_input(pred)
+        pred = FCN16.post_processing(pred)
 
         out_img = Image.fromarray(pred, mode = 'L')
 
@@ -149,12 +149,12 @@ class FCN16:
 
             # post processing
             preds = np.squeeze(preds, axis = 3)
-            preds = preprocess_input(preds)
+            preds = FCN16.post_processing(preds)
 
             for pred in preds:
                 out_img = Image.fromarray(pred, mode = 'L')
   
-                out_path = '%s/%d.png' % (out_video_dir, th)
+                out_path = '%s/%.5d.png' % (out_video_dir, th)
                 th += 1
 
                 # save the out_img

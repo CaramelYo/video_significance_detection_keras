@@ -1,0 +1,30 @@
+2018-01-25 14:53 root         INFO    
+n_training = 21737
+2018-01-25 14:53 root         INFO    
+n_validation = 2947
+2018-01-25 14:53 root         INFO    
+model exists
+2018-01-25 14:53 root         INFO    
+build model completed
+2018-01-25 14:53 root         INFO    
+out epoch = 0
+2018-01-25 16:50 root         INFO    
+out epoch = 1
+2018-01-25 18:45 root         INFO    
+out epoch = 2
+2018-01-25 20:38 root         INFO    
+out epoch = 3
+2018-01-25 22:30 root         INFO    
+out epoch = 4
+2018-01-26 00:23 root         INFO    
+out epoch = 5
+2018-01-26 02:16 root         INFO    
+out epoch = 6
+2018-01-26 04:09 root         INFO    
+out epoch = 7
+2018-01-26 06:01 root         INFO    
+out epoch = 8
+2018-01-26 07:54 root         INFO    
+out epoch = 9
+2018-01-26 09:47 root         INFO    
+training time = 68006.06765580177

@@ -47,9 +47,9 @@ learning_rate = 0.00001
 loss = 'mse'
 # valid_rate = 0.1
 # n_epoch = 10
-out_epoch = 5
+out_epoch = 10
 # in_epoch = 10000
-in_epoch = 5
+in_epoch = 2
 batch_size = 2
 
 

@@ -1,10 +1,8 @@
-2018-01-23 13:22 root         INFO    
-n_training = 20930
-2018-01-23 13:22 root         INFO    
-n_validation = 2947
-2018-01-23 13:22 root         INFO    
+2018-05-14 16:30 root         INFO    
+n_test = 3816
+2018-05-14 16:30 root         INFO    
 model exists
-2018-01-23 13:22 root         INFO    
+2018-05-14 16:30 root         INFO    
 build model completed
-2018-01-23 13:22 root         INFO    
-out epoch = 0
+2018-05-14 16:37 root         INFO    
+test time = 440.25402450561523
